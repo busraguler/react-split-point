@@ -1,0 +1,10 @@
+.formContaniner {
+  padding: 10px;
+  .addAndCancelButtons {
+    display: flex;
+    justify-content: flex-end;
+    button {
+      font-size: 11px !important;
+    }
+  }
+}
